@@ -1,0 +1,30 @@
+
+/*
+.bg-grey{
+    background-color: #e5e5e5;
+}
+
+.nav-link{
+    position: relative;
+    color: grey!important;
+
+}
+
+.nav-link:after{
+    content: '';
+    width: 0;
+    height: 3px;
+    background-color: red;
+    transition: all 0.4s linear;
+    position: absolute;
+    left: 0;
+    top: -7px;
+}
+
+
+.nav-link:hover:after, .nav-link .active:after{
+
+    width: 100%;
+}
+
+ */
